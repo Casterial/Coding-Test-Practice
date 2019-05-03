@@ -2,7 +2,7 @@
 ###Loop practice, easy.
 
 **ASSIGNMENT**
-###Write a function that will do the following:
+### Write a function that will do the following:
 - if the number is divisible by 3 it prints "Fizz"
 - if the number is divisible by 5 it prints "Buzz"
 - If the number is divisible by 3 and 5 it prints "FizzBuzz"
