@@ -40,7 +40,6 @@ vector<int> FindRectangle(vector<vector<int>> image)
 				myCoords.push_back(bottomRightX);
 				myCoords.push_back(bottomRightY);
 				flagTopLeft = true;
-
 			}
 		}
 	}
