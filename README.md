@@ -6,5 +6,5 @@ Every file will be worked on in either C++ or Python, depending on what I am wor
 - Each folder will contain a README.md which will hold the challenge information, as well as a .py or .cpp file which holds the answer. 
 
 
-I'm available at Logan_shelton@hotmail.com
+                                           I'm available at Logan_shelton@hotmail.com
 
