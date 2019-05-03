@@ -1,5 +1,5 @@
 # Write FizzBuzz
-###Loop practice, easy.
+## Loop practice, easy.
 
 **ASSIGNMENT**
 ### Write a function that will do the following:
