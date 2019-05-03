@@ -1,5 +1,15 @@
 #include <iostream>
 
+/*
+Create a file that does the following sorting methods:
+*Insertion Sort
+*Bubble sort
+*Selection Sort
+
+As a bonus, create a case statement to select which sort you'll do for the data presented.
+Additionally make a function for swapping and printing the array.
+
+*/
 void swap(int *xp, int *yp)
 {
 	int temp = *xp;
