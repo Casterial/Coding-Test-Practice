@@ -3,7 +3,7 @@ int main()
     int n;
     cin >> n;
     cin.ignore(numeric_limits<streamsize>::max(), '\n');
-    string myNumbers[10] = {"Greater than 9", "One", "Two", "Three", "Four", "Five",                                 "Six", "Seven", "Eight", "Nine" };
+    string myNumbers[10] = {"Greater than 9", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine" };
     
     if (n > 9)
     {
