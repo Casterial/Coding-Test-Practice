@@ -13,7 +13,7 @@
 
 ### ar: the colors of each sock
 
-##Input Format
+## Input Format
 
-###The first line contains an integer , the number of socks represented in . 
-###The second line contains  space-separated integers describing the colors  of the socks in the pile.
+### The first line contains an integer , the number of socks represented in . 
+### The second line contains  space-separated integers describing the colors  of the socks in the pile.
